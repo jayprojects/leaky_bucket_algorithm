@@ -147,7 +147,7 @@ namespace highprefnet1._0
            
             try
             {
-                String filePath = @"C:\Documents and Settings\Jayati\My Documents\Visual Studio 2008\Projects\highprefnet1.0\highprefnet1.0\t2.txt";
+                String filePath = @"t2.txt";
                 using (StreamReader sr = new StreamReader(filePath))
                 {
                     String line;
